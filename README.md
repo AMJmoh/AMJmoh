@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/abdurezak-mohammed/
+ </h3>
 <p align="left">
 </p>
 
